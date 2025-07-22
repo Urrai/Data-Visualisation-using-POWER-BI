@@ -19,4 +19,4 @@ Dynamic Filters: Date range, product category, region.
 
 ## 📈 Screenshots 
 
-Dashboard screenshot- 
+Dashboard screenshot- (https://github.com/Urrai/Data-Visualisation-using-POWER-BI/blob/main/Surya%20e-commerce%20Sales%20Dashboard%20using%20Power%20BI%20.png)
